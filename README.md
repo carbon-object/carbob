@@ -19,7 +19,7 @@ By holding these CAOBs in a visible public account, the holder demonstrates a) t
 
 ### a) the pollution produced
 
-Similar to defi staking (see e.g., https://stake.axieinfinity.com/), holders of CAOBs are receiving daily 
+Similar to defi staking (see e.g., https://stake.axieinfinity.com/), holders of CAOBs are receiving (airdropped?) daily 
 "rewards" in the form of CARBOB_POLUTE tokens, which are getting added to their account. The more CARBOB_POLUTE tokens the holder
 has, the more pollution is produced.
 
