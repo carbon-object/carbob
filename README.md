@@ -11,6 +11,8 @@ Carbon object allows "players" to collect and hold token-based objects known as 
 
 These CAOBs can take various forms, some of them are polluting objects releasing carbon, and some are carbon sink objects. 
 
+To avoid market speculation: make CARBOB_SINK an NFT with an expiration date. CARBOB_SINK NFTs need to be neutralized within a time period otherwise they get burned. Also the NFT will have a reference to the CARBOB_SINK producer so that the CARBOB_NEUTRAL token that includes the token has knowledge of who has offset the carbon.
+
 Each CAOB is a non-fungible token (NFT), sold on the Carbon Object marketplace and minted using the Carbon Object Token (CARBOB).
 
 By holding these CAOBs in a visible public account, the holder demonstrates a) the pollution that she is producing and b) the efforts she is taken to offset them.
