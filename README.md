@@ -1,40 +1,46 @@
-# carbon object tokens
+# Getting Started with Create React App
 
-Carbon neutrality means balancing emitting carbon and absorbing carbon from the atmosphere in carbon sinks.
-The carbon object tokens will help track and prove the carbon neutrality of individuals and businesses.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-The idea is to use a public blockchain platform (Ethereum?, solana? ...) to build a record of polluters and the efforts they take to offset their emissions.
+## Available Scripts
 
-Inspired by famous play-to-earn nft games like [Axie Infinity](https://axieinfinity.com/) which allows players to collect, breed, raise, battle, and trade token-based creatures known as Axies.
+In the project directory, you can run:
 
-Carbon object allows "players" to collect and hold token-based objects known as Carbon Objects (CAOB).
+### `npm start`
 
-These CAOBs can take various forms, some of them are polluting objects releasing carbon, and some are carbon sink objects. 
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Each CAOB is a non-fungible token (NFT), sold on the Carbon Object marketplace and minted using the Carbon Object Token (CARBOB).
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-By holding these CAOBs in a visible public account, the holder demonstrates a) the pollution that she is producing and b) the efforts she is taken to offset them.
+### `npm test`
 
-### a) the pollution produced
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Similar to defi staking (see e.g., https://stake.axieinfinity.com/), holders of CAOBs are receiving daily 
-"rewards" in the form of CARBOB_POLUTE tokens, which are getting added to their account. The more CARBOB_POLUTE tokens the holder
-has, the more pollution is produced.
+### `npm run build`
 
-### b) the efforts to offset pollution
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The holder can neutralize their holdings of CARBOB_POLUTE tokens.
-The purchase of CARBOB_SINK tokens can do this. One CARBOB_SINK token offsets one CARBOB_POLUTE token, and 
-the neutralization process creates a CARBOB_NEUTRAL token (i.e., proof of offset for the holder).
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-### CARBOB_SINK token creation
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Holders that hold sink-CAOBs are rewarded with daily CARBOB_SINK tokens, which they can sell on the market. 
-The issuance of sink-CAOBs needs to be carefully vetted by a central authority to ensure only
-genuine projects get rewarded. 
+### `npm run eject`
 
-The carbon object ecosystem also has its unique governance token, known as Carbon Object Token (CARBOB). 
-These are used to participate in crucial governance votes and will give holders a say in how funds in the Treasury are spent.
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
