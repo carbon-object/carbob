@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/4c60cb56-f991-4476-8906-2f82be39d417/microsoft.web/sites/subscriptions/4c60cb56-f991-4476-8906-2f82be39d417/resourceGroups/DefaultResourceGroup-EAU/providers/Microsoft.Web/sites/carbob1",
+    "appService.deploySubpath": "."
+}
